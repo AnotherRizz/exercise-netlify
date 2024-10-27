@@ -1,5 +1,5 @@
-const url = "YOURDEPLOYURL" // TODO: replace this
-const studentName = "YOURNAME" // TODO: replace this
-const studentId = "YOURSTUDENTID" // TODO: replace this
+const url = "https://rsqijpnnetlify.netlify.app/" // TODO: replace this
+const studentName = "Risqi Japana" // TODO: replace this
+const studentId = "FS11775815" // TODO: replace this
 
 export { url, studentName, studentId }
